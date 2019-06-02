@@ -1,6 +1,8 @@
 # Exceptionally-Useless-Box
 All files related to building the Exceptionally Useless Box
 
+See demonstration of the device working here: https://youtu.be/8gKpCouH2lw
+
 NOTE: FILES ARE STILL BEING UPLOADED AND THIS REPOSITORY IS INCOMPLETE
 
 To-Do:
